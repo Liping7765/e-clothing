@@ -8,6 +8,6 @@ Summary: This project is to launch an E-commerce web application with full shopp
 - Created and utilized database from Firebase for all relevant user information
 - Synchronized response on the shopping cart page within the same page 
 
-Please click [here](https://louiscrown.herokuapp.com/) to go to my personal website for more details. 
+Please click [here](https://louiscrown.herokuapp.com/) to check out this website for more details. 
 
 ![webdemo](https://github.com/Liping7765/e-clothing/blob/master/Web%20Demo.jpg?raw=true)
