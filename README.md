@@ -1,6 +1,6 @@
-# Frontend Project – E-Commerce website 
+# Frontend Project – E-Commerce Website 
 
-Summary: This project is to launch an E-commerce web application with full shopping features and aesthetic UI design, using various advanced React.js concepts.
+Summary: This project is to launch an e-commerce web application with full shopping features and aesthetic UI design, using various advanced React.js concepts.
 > **Tech Stack: HTML5, CSS, SASS, Webpack, React, Redux, Firebase, Hooks, GraphQL**
 
 - Expanded its user authentication with google accounts, avoiding redundant sign-up process to improve user experience 
